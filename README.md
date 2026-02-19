@@ -1,93 +1,177 @@
-<h1 align="center">
+<!-- MY README -- @laiscoutinho -->
+
+# Olá mundo! <img src="https://raw.githubusercontent.com/umenzi/umenzi/main/wave.gif" width="30px">
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/laisccoutinho/)
+[![Instagram](https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/laiscoutinho.dev)
+[![Email](https://img.shields.io/badge/-Email-006bed?style=flat-square&logo=gmail&logoColor=white)](mailto:laiscc575@gmail.com)
+[![GitHub](https://img.shields.io/github/followers/laiscoutinho?label=Follow&style=social)](https://github.com/laiscoutinho)
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Inter&weight=800&size=35&duration=3000&pause=500&multiline=true&width=650&height=140&lines=%24+whoami;Lais+Coutinho)
+
+<!--
+<h2>
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?color=6A5ACD&lines=Hello,+World!+🌎;Welcome!;I+am+Laís+Coutinho!;🌟+Passionate+for+Inovation!&center=true&size=35">
   </a>
-</h1>
+  <a href="https://git.io/typing-svg" target="_blank">
+    <img 
+      src="https://readme-typing-svg.herokuapp.com?
+        font=Inter&weight=800&size=25&duration=3000&pause=500&multiline=true&width=650&height=140
+        &lines=%24+pwd;%2Fhome%2Flais%2Ffrontend-developer" 
+        alt="Job GitHub Readme" 
+    />
+  </a>
+  <a href="https://git.io/typing-svg" target="_blank">
+    <img 
+      src="https://readme-typing-svg.herokuapp.com?
+        font=Inter&weight=800&size=25&duration=1250&pause=500&multiline=true&width=650&height=140
+        &lines=%24+ls;react%2F;typescript%2F;angular%2F" 
+        alt="Skills GitHub Readme" 
+    />
+  </a>
+</h2>
+ -->
 
 
-<h2 align="left">✨ About Me</h2>
-<ul>
-  <li>❤️ Passionate about problems and innovative solutions.</li>
-  <li>💻 Computer Science Student and Computer Technician Student at the Federal Institute of Ceará (IFCE).</li>
-  <li>🌱 Scholarship Student working on Machine Learning and Mental Health Solutions.</li>
-  <li>📚 Always learning and improving my skills, focused on collaborating in innovative projects.</li>
-</ul>
+## ✨ Sobre mim
+
+**Desenvolvedora Frontend** com foco em construção de interfaces acessíveis, escaláveis e interativas, orientadas à experiência do usuário.
+
+Atuo com **React, TypeScript e Angular**, estruturando projetos que priorizam:
+
+- Arquitetura baseada em componentes  
+- Separação clara de responsabilidades  
+- Padronização e manutenibilidade  
+- Performance e experiência do usuário  
+- Developer Experience (DX)  
+
+Frontend vai além do visual: envolve estrutura, clareza e decisões técnicas alinhadas ao produto.
 
 
-<h2 align="left">🤖 Technologies</h2>
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width=110>  <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="65" height="65" /> </td>
-      <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg"/> </td>
-      <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/> </td>
-      <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/> </td>
-      <td align="center" width=110>  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" /> </td>
-      <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/> </td>
-      <td  align="center" width=110><img class="skills__logo" src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="Logo MySQL"></td>     
-      <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/> </td>
-      <td align="center" width=110> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="60" height="60"/> </td>
-    </tr>
-    <tr> 
-      <td align="center" width=110>Java</td>
-      <td align="center" width=110>Spring Boot</td>
-      <td align="center" width=110>HTML</td>
-      <td align="center" width=110>CSS</td>
-      <td align="center" width=110>JavaScript</td>
-      <td align="center" width=110>React</td>
-      <td align="center" width=110>MySQL</td>
-      <td align="center" width=110>PostgreSQL</td>
-      <td align="center" width=110>Postman</td>
+## 🧠 Pesquisa & Engenharia de Software & IA
+
+Experiência acadêmica nas áreas de:
+
+- Testes de Aceitação e Engenharia de Software  
+- Inteligência Artificial aplicada à Saúde Mental  
+- IA para detecção e predição de bugs  
+
+Base analítica aplicada à construção de interfaces.
+
+
+## 🤖 Tecnologias 
+<div style="display: flex; justify-content: center; gap: 70px; flex-wrap: wrap;">
+  <table border="0" cellspacing="0" cellpadding="0">
+    <caption><strong>Frontend</strong></caption> 
+    <tr>      
+      <td align="center" width="110">
+        <img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/> <br/>
+        HTML
+      </td>
+      <td align="center" width="110">
+        <img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/><br/>
+        CSS
+      </td>
+      <td align="center" width="110">
+        <img width="65" height="65" src="https://techstack-generator.vercel.app/js-icon.svg"/><br/>
+        JavaScript
+      </td>
+      <td align="center" width="110">
+        <img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/><br/>
+        TypeScript
+      </td>
     </tr>
   </table>
-</div><br>
-
-
-<h2 align="left">🛠️ Tools</h2>
-<div align="center">
   <table>
-    <tr>
-      <td align="center" width=110> <a href="https://git-scm.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/git.png" alt="git" width="65" height="65"/></a> </td>
-      <td align="center" width=110> <a href="https://github.com/" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/github.png" alt="github" width="65" height="65"/></a> </td>
-    </tr>
-    <tr>
-      <td align="center" width=110>Git</td>
-      <td align="center" width=110>GitHub</td>
+    <caption><strong>Frameworks & UI</strong></caption>
+    <tr>      
+      <td align="center" width="110">
+        <img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/> <br/>
+        React
+      </td>
+      <td align="center" width="110">
+        <img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg"/> <br/>
+        Angular
+      </td>      
+      <td align="center" width="110">
+        <img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"/> <br/>
+        Bootstrap
+      </td>
+      <td align="center" width="110">
+        <img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg"/> <br/> 
+        Tailwind
+      </td>      
     </tr>
   </table>
-</div><br>
+</div>
 
-<h2 align="left">🛠️ Statistics</h2>
-<div style="display: flex; justify-content: space-around; width: 100%;">
-  <div>
-    <img src="https://github-readme-stats.vercel.app/api?username=laiscoutinho&rank_icon=github&theme=tokyonight#gh-dark-mode-only" alt="GitHub Stats" />
-  </div>
-  <div>
-    <a href="https://github.com/laiscoutinho/github-readme-stats">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=laiscoutinho&layout=donut&theme=tokyonight#gh-dark-mode-only" alt="Top Languages" />
+
+## 🛠️ Ferramentas 
+<div align="center">
+  <table>
+     <tr>
+     <td align="center" width="110">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="60" height="60"/> <br/> 
+        Figma
+      </td>
+      <td align="center" width="110">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="60" height="60"/> <br/> 
+        Docker
+      </td>
+      <td align="center" width="110">
+          <img src="https://img.icons8.com/color/48/000000/git.png" width="60" height="60"/> <br/> 
+          Git
+      </td>
+      <td align="center" width="110">
+          <img src="https://img.icons8.com/fluency/48/000000/github.png" width="60" height="60"/> <br/> 
+          GitHub
+      </td>
+      <td align="center" width="110">
+        <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="60" height="60"/> <br/> 
+        Postman
+      </td>
+      <td align="center" width="110">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="60" height="60"/> <br/> 
+        VS Code
+      </td>
+    </tr>
+  </table>
+</div>
+
+
+## ⭐ Minhas métricas 
+<div style="display: flex; justify-content: center; gap: 20px;">
+  <p align="center">
+    <a href="https://github.com/laiscoutinho"> 
+      <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=laiscoutinho&theme=radical" /> 
+    </a>  
+  </p>
+  <p align="center">
+    <a href="https://github.com/laiscoutinho">
+        <img height="180em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=laiscoutinho&layout=donut&theme=radical" />
     </a>
-  </div>
+  </p>  
 </div>
 <div style="text-align: center;">
   <img src="https://raw.githubusercontent.com/laiscoutinho/laiscoutinho/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </div>
 
 
-<h2 align="left">📫 How to find me?</h2>
-<link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css" rel="stylesheet">
-<ul>
-  <li>
-    <a href="https://www.linkedin.com/in/laisccoutinho/" target="_blank">
-      <i class="fab fa-linkedin"></i>  LinkedIn
-    </a>
-  </li>
-  <li>
-    <a href="mailto:laiscc575@gmail.com">
-      <i class="fas fa-envelope"></i> Gmail
-    </a>
-  </li>
-</ul>
+## 🚀 O que você vai encontrar nos meus repositórios
 
+- Estrutura de pastas pensada para escala  
+- Boas práticas de organização e componentização  
+- Foco em experiência do usuário (UX)  
 
-<h2 align="center">🌟 Thank you for visiting my profile! 🌟</h2>
-<p>If you prefer, you can view this profile in Portuguese by clicking <a href="./README-ptBR.md">here</a>.</p>
+Cada projeto representa evolução técnica e visão estratégica na construção de produtos digitais.
+
+---
+
+### ✨ Frontend com foco em interfaces escaláveis, arquitetura sólida e experiência orientada a produto.
+
+---
+
+<h2 align="center">🌟 Obrigada por visitar meu perfil. 🌟</h2>
+
+Se preferir, você pode visualizar este perfil em inglês clicando [aqui](./README-en.md).
